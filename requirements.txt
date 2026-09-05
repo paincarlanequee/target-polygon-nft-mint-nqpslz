@@ -1,0 +1,5 @@
+# Generated deps — tag 97f9d854
+pydantic>=2.6.0,<3
+click>=8.1.0,<9
+requests>=2.31.0,<3
+rich>=13.7.0,<14
