@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (97f9d854dc145a05)
+project:
+  name: target-polygon-nft-mint-nqpslz
+  tag: 97f9d854dc145a05
+  env: production
+cfg_nexusge3ll7:
+  enabled: true
+  workers: 5
+cfg_anchorbzw83z:
+  timeout_sec: 44
+  retry: 2
+cfg_buffermrbm39:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
